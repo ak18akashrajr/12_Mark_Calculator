@@ -1,0 +1,49 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+    color: gray;
+    font-size: 20px;
+    font-weight: bold;
+}
+input{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    border-radius: 5px;
+}
+input:hover{
+    background-color:rgb(3, 255, 213)
+}
+button{
+    width: 250px;
+    font-size: 20px;
+    border-radius: 10px;
+    
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
+#total{
+    background-color:rgb(101, 79, 228);
+    color: white;
+}
+#total:hover{
+    background-color: rgb(250, 0, 146);
+}
+#cut-off{
+    color:rgb(101, 79, 228);
+    background-color: white;
+}
+#cut-off:hover{
+    background-color: rgb(250, 0, 146);
+    color: white;
+}
+a{
+    color: rgb(255, 0, 149);
+}
+a:hover{
+    color: brown;
+}
+#subject{
+    color: black;
+}
